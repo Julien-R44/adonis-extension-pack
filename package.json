@@ -1,0 +1,33 @@
+{
+  "name": "adonis-extension-pack",
+  "displayName": "Adonis.js Extension Pack",
+  "description": "A collection of extensions for Adonis.js development",
+  "author": "Julien Ripouteau <julien@ripouteau.com>",
+  "publisher": "jripouteau",
+  "version": "1.0.0",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "icon": "assets/adonis.png",
+  "sponsor": {
+    "url": "https://github.com/sponsors/Julien-R44"
+  },
+  "galleryBanner": {
+    "color": "#5a45ff",
+    "theme": "dark"
+  },
+  "keywords": [
+    "Adonis",
+    "Adonis.js",
+    "Japa",
+    "Node.js"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "jripouteau.japa-vscode",
+    "jripouteau.adonis-vscode-extension"
+  ]
+}
