@@ -10,6 +10,10 @@
     "vscode": "^1.71.0"
   },
   "icon": "assets/adonis.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Julien-R44/adonis-extension-pack.git"
+  },
   "sponsor": {
     "url": "https://github.com/sponsors/Julien-R44"
   },
