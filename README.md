@@ -8,4 +8,4 @@
 Extension | Objective
 --------- | ---------
 [Adonis.js Extension](https://github.com/Julien-R44/adonis-vscode-extension) | Include Edge support, autocomplete for views & controllers, Go-To clicks, Command Palette for Ace, and many other features.
-[Japa Extension](https://github.com/Julien-R44/japa-extension) | Run your tests without typing anything.
+[Japa Extension](https://github.com/Julien-R44/japa-vscode) | Run your tests without typing anything.
