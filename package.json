@@ -25,13 +25,15 @@
     "Adonis",
     "Adonis.js",
     "Japa",
-    "Node.js"
+    "Node.js",
+    "Edge"
   ],
   "categories": [
     "Extension Packs"
   ],
   "extensionPack": [
     "jripouteau.japa-vscode",
-    "jripouteau.adonis-vscode-extension"
+    "jripouteau.adonis-vscode-extension",
+    "AdonisJS.vscode-edge"
   ]
 }
