@@ -4,7 +4,7 @@
   "description": "A collection of extensions for Adonis.js development",
   "author": "Julien Ripouteau <julien@ripouteau.com>",
   "publisher": "jripouteau",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "license": "MIT",
   "engines": {
     "vscode": "^1.71.0"
